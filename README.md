@@ -12,7 +12,7 @@
 ---
 
 ## Задание 1
-**Код:** 	ask1.py
+**Код:** 	task1.py
 
 **Скрин:** ![Task 1 screenshot](Pictures/Screenshots/task1.png)
 
